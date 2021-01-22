@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AntnEle">
+    <listeners>
+        <listener class-name="com.antnele.utilities.Reporting" />
+    </listeners>
+  <test name="MobileApp Testing">
+    <classes>
+      <class name="com.antnele.TestCases.TC_LoginWithMobile_001"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
