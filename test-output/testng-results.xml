@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-22T17:43:00 IST" name="AntnEle" finished-at="2021-01-22T17:43:29 IST" duration-ms="29015">
+  <suite started-at="2021-01-23T12:03:11 IST" name="AntnEle" finished-at="2021-01-23T12:03:42 IST" duration-ms="31062">
     <groups>
     </groups>
-    <test started-at="2021-01-22T17:43:00 IST" name="MobileApp Testing" finished-at="2021-01-22T17:43:29 IST" duration-ms="29015">
+    <test started-at="2021-01-23T12:03:11 IST" name="MobileApp Testing" finished-at="2021-01-23T12:03:42 IST" duration-ms="31062">
       <class name="com.antnele.TestCases.TC_LoginWithMobile_001">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.antnele.TestCases.TC_LoginWithMobile_001@6c130c45]" started-at="2021-01-22T17:43:00 IST" name="setup" finished-at="2021-01-22T17:43:15 IST" duration-ms="14148" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.antnele.TestCases.TC_LoginWithMobile_001@6c130c45]" started-at="2021-01-23T12:03:12 IST" name="setup" finished-at="2021-01-23T12:03:26 IST" duration-ms="14233" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginWithMobileTest()[pri:0, instance:com.antnele.TestCases.TC_LoginWithMobile_001@6c130c45]" started-at="2021-01-22T17:43:15 IST" name="loginWithMobileTest" finished-at="2021-01-22T17:43:29 IST" duration-ms="14414" status="FAIL">
+        <test-method signature="loginWithMobileTest()[pri:0, instance:com.antnele.TestCases.TC_LoginWithMobile_001@6c130c45]" started-at="2021-01-23T12:03:26 IST" name="loginWithMobileTest" finished-at="2021-01-23T12:03:42 IST" duration-ms="16365" status="FAIL">
           <exception class="org.openqa.selenium.UnsupportedCommandException">
             <message>
-              <![CDATA[Method has not yet been implemented
+              <![CDATA[The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-FPSA8RRF', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+System info: host: 'LAPTOP-FPSA8RRF', ip: '172.20.10.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
 Driver info: io.appium.java_client.AppiumDriver
 Capabilities {app: E:\Selenium_WorkSpace\AntnE..., appPackage: com.antnele, databaseEnabled: false, desired: {app: E:\Selenium_WorkSpace\AntnE..., deviceName: Andriod, newCommandTimeout: 60, platformName: android, platformVersion: 10.0, udid: 52036015fe09146b}, deviceApiLevel: 27, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 52036015fe09146b, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: 52036015fe09146b, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 8.1.0, statBarHeight: 63, takesScreenshot: true, udid: 52036015fe09146b, viewportRect: {height: 1857, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: a46928be-c7cf-4398-82c4-0fb4c698d3b6]]>
+Session ID: dc2710bf-1780-438b-aec8-627ba830249c]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.UnsupportedCommandException: Method has not yet been implemented
+              <![CDATA[org.openqa.selenium.UnsupportedCommandException: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-FPSA8RRF', ip: '192.168.0.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
+System info: host: 'LAPTOP-FPSA8RRF', ip: '172.20.10.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'
 Driver info: io.appium.java_client.AppiumDriver
 Capabilities {app: E:\Selenium_WorkSpace\AntnE..., appPackage: com.antnele, databaseEnabled: false, desired: {app: E:\Selenium_WorkSpace\AntnE..., deviceName: Andriod, newCommandTimeout: 60, platformName: android, platformVersion: 10.0, udid: 52036015fe09146b}, deviceApiLevel: 27, deviceManufacturer: samsung, deviceModel: SM-G610F, deviceName: 52036015fe09146b, deviceScreenDensity: 420, deviceScreenSize: 1080x1920, deviceUDID: 52036015fe09146b, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 60, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 8.1.0, statBarHeight: 63, takesScreenshot: true, udid: 52036015fe09146b, viewportRect: {height: 1857, left: 0, top: 63, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: a46928be-c7cf-4398-82c4-0fb4c698d3b6
+Session ID: dc2710bf-1780-438b-aec8-627ba830249c
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -41,8 +41,8 @@ at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecu
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
 at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:45)
 at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
-at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:287)
-at com.antnele.TestCases.TC_LoginWithMobile_001.loginWithMobileTest(TC_LoginWithMobile_001.java:28)
+at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:281)
+at com.antnele.TestCases.TC_LoginWithMobile_001.loginWithMobileTest(TC_LoginWithMobile_001.java:31)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -77,7 +77,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithMobileTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.antnele.TestCases.TC_LoginWithMobile_001@6c130c45]" started-at="2021-01-22T17:43:29 IST" name="tearDown" finished-at="2021-01-22T17:43:29 IST" duration-ms="281" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.antnele.TestCases.TC_LoginWithMobile_001@6c130c45]" started-at="2021-01-23T12:03:42 IST" name="tearDown" finished-at="2021-01-23T12:03:42 IST" duration-ms="295" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

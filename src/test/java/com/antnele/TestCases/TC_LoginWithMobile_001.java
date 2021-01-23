@@ -1,15 +1,17 @@
 package com.antnele.TestCases;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.antnele.PageObjects.LoginWithMobilePage;
 
 public class TC_LoginWithMobile_001 extends BaseClass {
-	
-	
+
+
+
 	@Test
 	public void loginWithMobileTest() throws InterruptedException {
-		
+
 		LoginWithMobilePage lpm = new LoginWithMobilePage(driver);
 		lpm.clickSkipBtn();
 		logger.info("Clicked Skip Button");
@@ -23,13 +25,12 @@ public class TC_LoginWithMobile_001 extends BaseClass {
 		logger.info("Clicked Next Button");
 		lpm.clickSubmit();
 		logger.info("Clicked Submit");
+
+		Thread.sleep(5000);
 		
-		Thread.sleep(3000);
-	String res =	driver.getCurrentUrl();
-	System.out.println(res);
-		logger.info("loginWithMobileTest Case Passed");
-		
-		
+		String res = driver.getTitle();
+		System.out.println(res);
+
 	}
 
 }

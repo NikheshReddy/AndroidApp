@@ -38,3 +38,81 @@
 2021-01-22 17:43:23,580 [main] INFO AntnEle App - Clicked Done
 2021-01-22 17:43:25,373 [main] INFO AntnEle App - Clicked Next Button
 2021-01-22 17:43:26,287 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 10:53:13,702 [main] INFO AntnEle App - App Launched
+2021-01-23 10:53:17,653 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 10:53:18,690 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 10:53:20,420 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 10:53:21,104 [main] INFO AntnEle App - Clicked Done
+2021-01-23 10:53:22,921 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 10:55:34,207 [main] INFO AntnEle App - App Launched
+2021-01-23 10:55:39,250 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 10:55:40,280 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 10:55:41,994 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 10:55:42,667 [main] INFO AntnEle App - Clicked Done
+2021-01-23 10:55:44,538 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 10:55:45,508 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 10:55:49,649 [main] INFO AntnEle App - loginWithMobileTest Case Passed
+2021-01-23 11:17:54,990 [main] INFO AntnEle App - App Launched
+2021-01-23 11:18:00,144 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 11:18:01,185 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 11:18:02,890 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 11:18:03,578 [main] INFO AntnEle App - Clicked Done
+2021-01-23 11:18:05,329 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 11:18:06,331 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 11:18:10,618 [main] INFO AntnEle App - Testcases failed
+2021-01-23 11:20:02,982 [main] INFO AntnEle App - App Launched
+2021-01-23 11:20:08,080 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 11:20:09,111 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 11:20:10,839 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 11:20:11,519 [main] INFO AntnEle App - Clicked Done
+2021-01-23 11:20:13,333 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 11:20:14,348 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 11:21:42,847 [main] INFO AntnEle App - App Launched
+2021-01-23 11:21:47,983 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 11:21:49,014 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 11:21:50,753 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 11:21:51,430 [main] INFO AntnEle App - Clicked Done
+2021-01-23 11:21:53,209 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 11:21:54,231 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 11:23:08,733 [main] INFO AntnEle App - App Launched
+2021-01-23 11:23:13,839 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 11:23:14,894 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 11:23:16,644 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 11:23:17,311 [main] INFO AntnEle App - Clicked Done
+2021-01-23 11:23:19,079 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 11:23:20,127 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 11:26:04,551 [main] INFO AntnEle App - App Launched
+2021-01-23 11:26:09,668 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 11:26:10,700 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 11:26:12,405 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 11:26:13,078 [main] INFO AntnEle App - Clicked Done
+2021-01-23 11:26:14,841 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 11:26:15,830 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 11:56:01,046 [main] INFO AntnEle App - App Launched
+2021-01-23 11:56:06,178 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 11:56:07,210 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 11:56:08,931 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 11:56:09,602 [main] INFO AntnEle App - Clicked Done
+2021-01-23 11:56:11,452 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 11:56:12,450 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 12:00:02,352 [main] INFO AntnEle App - App Launched
+2021-01-23 12:00:07,496 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 12:00:08,515 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 12:00:10,250 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 12:00:10,936 [main] INFO AntnEle App - Clicked Done
+2021-01-23 12:00:12,711 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 12:00:13,727 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 12:01:07,669 [main] INFO AntnEle App - App Launched
+2021-01-23 12:01:12,829 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 12:01:13,871 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 12:01:15,571 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 12:01:16,242 [main] INFO AntnEle App - Clicked Done
+2021-01-23 12:01:18,033 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 12:01:19,081 [main] INFO AntnEle App - Clicked Submit
+2021-01-23 12:03:26,233 [main] INFO AntnEle App - App Launched
+2021-01-23 12:03:31,381 [main] INFO AntnEle App - Clicked Skip Button
+2021-01-23 12:03:32,395 [main] INFO AntnEle App - clicked withMobile button
+2021-01-23 12:03:34,088 [main] INFO AntnEle App - Provide MobileNumber
+2021-01-23 12:03:34,733 [main] INFO AntnEle App - Clicked Done
+2021-01-23 12:03:36,504 [main] INFO AntnEle App - Clicked Next Button
+2021-01-23 12:03:37,537 [main] INFO AntnEle App - Clicked Submit
